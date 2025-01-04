@@ -1,0 +1,3 @@
+cellpylib
+matplotlib
+numpy
